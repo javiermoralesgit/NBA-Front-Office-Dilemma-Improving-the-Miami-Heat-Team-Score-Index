@@ -1,2 +1,6 @@
 # NBA-Front-Office-Dilemma-Improving-the-Miami-Heat-Team-Score-Index
-Observational study using NBA public data to test multiple combinations of free agent players to assemble the Miami Heat 2021 team.
+This observational study was designed using NBA public data to test multiple combinations of free agent players to assemble the Miami Heat 2021 team that had the best chance to win the 2021 NBA championship. To measure players on a comparable scale, an independent variable called PlayerScoreIndex would test whether the team will improve on the basis of dependent variable TeamScoreIndex, which will be arbitrarily created as well. 
+
+This assignment was done for my Research Design Course at Columbia University with the overall purpose being to run an experiment not neccessarily it being a Machine Learning project. This project showcases the use of a Monte Carlo Simulation which is a multiple probability simulation model that focuses on constantly repeating random samples to achieve certain results in order to generate a dataset of 1,000 combinations of 6 free agent players. 15 unique random combination samples of 6 free agent players were selected. 
+
+A Two Sample T-Test was then ran 1,000 times on the 15 unique random samples to conclude whether the Two Sample T-Test is statistically significant to reject the null hypothesis under 4 different scenarios.
